@@ -158,6 +158,18 @@ string quick_sort(startANDlength) {
 	return "Quick Sort";
 }
 
+string stalin_sort(startANDlength) {
+	const unsigned int marker = 0b11111111'11111111; // don't use this number I guess
+	for (iINlengthM1) {
+		if (start[i] > start[i + 1]) {
+			start[i] = marker;
+		}
+	}
+	for (iINlength) {
+
+	}
+}
+
 
 ////////////////////////////////////////////////////////////////////////
 //                   End of Sorting Algorithms                        //
