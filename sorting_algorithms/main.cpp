@@ -170,7 +170,55 @@ string stalin_sort(startANDlength) {
 	}
 }
 
+string merge_sort(startANDlength) {}
 
+string insertion_sort(startANDlength) {}
+
+string stooge_sort(startANDlength) {}
+
+string shell_sort(startANDlength) {}
+
+string heap_sort(startANDlength) {}
+
+string selection_sort(startANDlength) {}
+
+string bucket_sort(startANDlength) {}
+
+string radix_sort(startANDlength) {}
+
+string time_sort(startANDlength) {}
+
+string cocktail_shaker_sort(startANDlength) {}
+
+string pigeonhole_sort(startANDlength) {}
+
+string counting_sort(startANDlength) {}
+
+string comb_sort(startANDlength) {}
+
+string gnome_sort(startANDlength) {}
+
+string bitonic_sort(startANDlength) {}
+
+string cycle_sort(startANDlength) {}
+
+string patience_sort(startANDlength) {}
+
+string strand_sort(startANDlength) {}
+
+string flash_sort(startANDlength) {}
+
+string odd_even_sort(startANDlength) {}
+
+string patience_sort(startANDlength) {}
+
+string bead_sort(startANDlength) {}
+
+string intro_sort(startANDlength) {}
+
+string tim_sort(startANDlength) {}
+
+string block_sort(startANDlength) {}
 ////////////////////////////////////////////////////////////////////////
 //                   End of Sorting Algorithms                        //
 ////////////////////////////////////////////////////////////////////////
